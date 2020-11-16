@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "VERYDO2020!@#@",
+    "database": "easymd_dev",
+    "host": "122.51.248.81",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "VERYDO2020!@#@",
+    "database": "easymd_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
